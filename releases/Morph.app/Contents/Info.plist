@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BuildMachineOSBuild</key>
+	<string>26C5035r</string>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>en</string>
+	<key>CFBundleDisplayName</key>
+	<string>Morph</string>
+	<key>CFBundleExecutable</key>
+	<string>Morph</string>
+	<key>CFBundleIconFile</key>
+	<string>AppIcon</string>
+	<key>CFBundleIconName</key>
+	<string>AppIcon</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.Yassin.morph</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>Morph</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.7.2</string>
+	<key>CFBundleSupportedPlatforms</key>
+	<array>
+		<string>MacOSX</string>
+	</array>
+	<key>CFBundleVersion</key>
+	<string>118</string>
+	<key>DTCompiler</key>
+	<string>com.apple.compilers.llvm.clang.1_0</string>
+	<key>DTPlatformBuild</key>
+	<string>26B118</string>
+	<key>DTPlatformName</key>
+	<string>macosx</string>
+	<key>DTPlatformVersion</key>
+	<string>27.2</string>
+	<key>DTSDKBuild</key>
+	<string>26B118</string>
+	<key>DTSDKName</key>
+	<string>macosx27.2</string>
+	<key>DTXcode</key>
+	<string>2720</string>
+	<key>DTXcodeBuild</key>
+	<string>27B52</string>
+	<key>LSApplicationCategoryType</key>
+	<string>public.app-category.utilities</string>
+	<key>LSMinimumSystemVersion</key>
+	<string>14.0</string>
+	<key>NSAppleEventsUsageDescription</key>
+	<string>We need access to media data for display in Notch.</string>
+	<key>NSBluetoothAlwaysUsageDescription</key>
+	<string>The app requires Bluetooth access to check the status of devices.</string>
+	<key>NSCalendarsFullAccessUsageDescription</key>
+	<string>Morph needs access to your calendar to display upcoming events in the notch.</string>
+	<key>NSCalendarsUsageDescription</key>
+	<string>Morph needs access to your calendar to display upcoming events in the notch.</string>
+	<key>NSCameraUsageDescription</key>
+	<string>Morph needs access to your camera to display a camera preview in the notch.</string>
+	<key>NSLocalNetworkUsageDescription</key>
+	<string>The app requires local network access to determine the name of your current Wi-Fi network.</string>
+	<key>SUFeedURL</key>
+	<string>https://www.getmorph.shop/appcast.xml</string>
+	<key>SUPublicEDKey</key>
+	<string>x48BDzA9AXWgtbSu7pGUmx6c9FU2WHJzKQ0b1XEAWtw=</string>
+	<key>SUScheduledCheckInterval</key>
+	<integer>3600</integer>
+</dict>
+</plist>

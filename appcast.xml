@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel>
+        <title>Morph Updates</title>
+        <link>https://www.getmorph.shop/appcast.xml</link>
+        <description>Most recent updates to Morph</description>
+        <language>en</language>
+        <!-- NEW-ITEMS -->
+        <item>
+            <title>Version 1.7.2</title>
+            <description><![CDATA[<p>Test release to check that automatic updates work.</p>]]></description>
+            <pubDate>Mon, 16 Nov 2026 23:00:44 +0000</pubDate>
+            <sparkle:version>118</sparkle:version>
+            <sparkle:shortVersionString>1.7.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://www.getmorph.shop/downloads/Morph-1.7.2.zip"
+                sparkle:edSignature="5+tmfK6ZG1B/hR7Xn98oAALFus7di/AaWMWgXdqB6yBH0yJG4KnlLX9IdC+IbXzhMSM7atod4Q4lkULgdzL2DA==" length="20961529"
+                type="application/octet-stream" />
+        </item>
+        <item>
+            <title>Version 1.7.1</title>
+            <description><![CDATA[<p>Fixed the updater that failed to start. New iOS-style volume HUD you can click and drag.</p>]]></description>
+            <pubDate>Mon, 16 Nov 2026 22:46:22 +0000</pubDate>
+            <sparkle:version>117</sparkle:version>
+            <sparkle:shortVersionString>1.7.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://www.getmorph.shop/downloads/Morph-1.7.1.zip"
+                sparkle:edSignature="4WTR9cSpiNIszXf8JFIs2y2DVFL9Iwu7LmuqpjTeF/dbGvbdn2DLs4TrQfQbjOoTqq8bcwz7OqLD9cd6C35GAA==" length="20961539"
+                type="application/octet-stream" />
+        </item>
+        <item>
+            <title>Version 1.7.0</title>
+            <description><![CDATA[<p>Bug fixes and improvements.</p>]]></description>
+            <pubDate>Mon, 09 Nov 2026 15:00:00 +0000</pubDate>
+            <sparkle:version>116</sparkle:version>
+            <sparkle:shortVersionString>1.7.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://www.getmorph.shop/downloads/Morph-1.7.0.zip"
+                sparkle:edSignature="W8lAhkSthCCVQd1icZGyAgTAzbRN+ZuTu3q/LwsLfcBnDVTYje8Akj+xBkfzeqmwBtjYQkH5NqXAWWyOFGg/Ag==" length="19305772"
+                type="application/octet-stream" />
+        </item>
+    </channel>
+</rss>

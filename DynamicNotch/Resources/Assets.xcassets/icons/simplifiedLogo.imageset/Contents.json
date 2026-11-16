@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "Glossy Purple Ribbon M App Icon.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "Glossy Purple Ribbon M App Icon 1.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "Glossy Purple Ribbon M App Icon 2.png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
